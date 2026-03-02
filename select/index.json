@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Choose",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-03-02T01:32:13.535729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again",
+      "artist": "The Forester Sisters",
+      "has_synced": true,
+      "path": "select/01_(I'd_Choose)_You_Again_The_Forester_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again (Album Version)",
+      "artist": "THE FORESTER SISTERS",
+      "has_synced": true,
+      "path": "select/02_(I'd_Choose)_You_Again_(Album_Version)_THE_FORESTER_SISTERS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "6 Million Ways To Rome, Choose One - Ab's Version",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/03_6_Million_Ways_To_Rome,_Choose_One_-_Ab's_Version_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "6 Million ways to Rome, choose",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/04_6_Million_ways_to_Rome,_choose_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Choose (feat. Ne-Yo & Kelly Rowland)",
+      "artist": "David Guetta feat. Ne-Yo & Kelly Rowland",
+      "has_synced": true,
+      "path": "select/05_Choose_(feat._Ne-Yo_&_Kelly_Rowland)_David_Guetta_feat._Ne-Yo_&_Kelly_Rowland.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Choose",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/06_Choose_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Ask Me to Choose",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/07_Don't_Ask_Me_to_Choose_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Ask Me to Choose",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/08_Don’t_Ask_Me_to_Choose_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Choose You",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/09_I_Choose_You_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard to Choose",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/10_Hard_to_Choose_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anyway You Choose to Give It (Boy 8-Bit remix)",
+      "artist": "The Black Ghosts",
+      "has_synced": false,
+      "path": "select/11_Anyway_You_Choose_to_Give_It_(Boy_8-Bit_remix)_The_Black_Ghosts.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Choose Again",
+      "artist": "Bishop Allen",
+      "has_synced": true,
+      "path": "select/12_Choose_Again_Bishop_Allen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tuesday Feeling (Choose To Stay)",
+      "artist": "Blood Orange feat. Tinashe",
+      "has_synced": true,
+      "path": "select/13_Tuesday_Feeling_(Choose_To_Stay)_Blood_Orange_feat._Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tuesday Feeling (Choose To Stay) (feat. Tinashe)",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/14_Tuesday_Feeling_(Choose_To_Stay)_(feat._Tinashe)_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Choose Me",
+      "artist": "David Banner",
+      "has_synced": true,
+      "path": "select/15_Choose_Me_David_Banner.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Choose Me",
+      "artist": "David Banner feat. Sky",
+      "has_synced": false,
+      "path": "select/16_Choose_Me_David_Banner_feat._Sky.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Choose Me (feat. Sky)",
+      "artist": "David Banner",
+      "has_synced": false,
+      "path": "select/17_Choose_Me_(feat._Sky)_David_Banner.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Choose",
+      "artist": "dvsn",
+      "has_synced": true,
+      "path": "select/18_Don't_Choose_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Choose You",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/19_I_Choose_You_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Choose You",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/20_I_Choose_You_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Choose",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_Choose_ATEEZ.txt"
+    }
+  ]
+}
